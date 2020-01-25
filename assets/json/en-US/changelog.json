@@ -1,0 +1,53 @@
+[
+    {
+        "rolloutDate": "12.01.2020",
+        "releaseName": "0.9.8 Beta 3",
+        "changelog": [
+            {
+                "moduleStyle": "unorderedList",
+                "title": "Improvements & Fixes",
+                "copy": [
+                    "The Work Out button on the Routine page works as expected."
+                ]
+            }
+        ]
+    },
+
+    {
+        "rolloutDate": "11.01.2020",
+        "releaseName": "0.9.8 Beta 2",
+        "changelog": [
+            {
+                "moduleStyle": "paragraph",
+                "copy": "This update includes improvements and bug fixes."
+            }
+        ]
+    },
+
+    {
+        "rolloutDate": "07.01.2020",
+        "releaseName": "0.9.8 Beta 1",
+        "changelog": [
+            {
+                "moduleStyle": "unorderedList",
+                "title": "What’s New",
+                "copy": [
+                    "Build recurring Training Plans on a flexible timeline.",
+                    "Refreshed Up Next card in Rest Timer.",
+                    "Refined Ongoing Workout card in This Week.",
+                    "Redesigned This Week page with new transitions &amp; typography.",
+                    "Routines—a new name for Sequences."
+                ]
+            },
+            {
+                "moduleStyle": "unorderedList",
+                "title": "Improvements Fixes",
+                "copy": [
+                    "Action buttons are always shown.",
+                    "More accurate prediction of upcoming workouts.",
+                    "Message bars aren’t overlapped by the Navigation Bar."
+                ]
+            }
+        ]
+    }
+]
