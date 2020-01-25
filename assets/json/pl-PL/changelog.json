@@ -19,7 +19,9 @@
         "changelog": [
             {
                 "moduleStyle": "paragraph",
-                "copy": "Ta aktualizacja wprowadza ulepszenia i poprawki."
+                "copy": [
+                    "Ta aktualizacja wprowadza ulepszenia i poprawki."
+                ]
             }
         ]
     },

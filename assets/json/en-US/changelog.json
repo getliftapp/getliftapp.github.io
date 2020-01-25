@@ -19,7 +19,9 @@
         "changelog": [
             {
                 "moduleStyle": "paragraph",
-                "copy": "This update includes improvements and bug fixes."
+                "copy": [
+                    "This update includes improvements and bug fixes."
+                ]
             }
         ]
     },
