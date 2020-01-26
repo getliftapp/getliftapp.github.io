@@ -1,7 +1,7 @@
 [
     {
-        "rolloutDate": "13.01.2020",
-        "releaseName": "0.9.8 Beta 3",
+        "rolloutDate": "14.01.2020",
+        "releaseName": "0.9.8 Beta 4",
         "changelog": [
             {
                 "moduleStyle": "unorderedList",
