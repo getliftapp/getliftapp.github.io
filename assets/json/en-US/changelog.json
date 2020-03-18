@@ -1,5 +1,32 @@
 [
     {
+        "rolloutDate": "18.03.2020",
+        "releaseName": "0.9.8.2 Beta 1",
+        "changelog": [
+            {
+                "moduleStyle": "unorderedList",
+                "title": "What’s New",
+                "copy": [
+                    "Track performance with Set Comments.",
+                    "Individually migrate values between Sets—past and ongoing.",
+                    "Zip through <i>Journal</i> and the Exercise index with a new scroll bar.",
+                    "Log Body Measurements in a reconstructed interface.",
+                    "Check for app updates in <i>Release Notes</i>."
+                ]
+            },
+            {
+                "moduleStyle": "unorderedList",
+                "title": "Fixes & Improvements",
+                "copy": [
+                    "Swifter loading of Exercises, Routines & the Training Plan.",
+                    "Button labels in <i>Training Plan</i> and <i>About</i> aren’t trimmed.",
+                    "Data like Release Notes is fetched from the Web."
+                ]
+            }
+        ]
+    },
+
+    {
         "rolloutDate": "12.01.2020",
         "releaseName": "0.9.8 Beta 3",
         "changelog": [
@@ -21,33 +48,6 @@
                 "moduleStyle": "paragraph",
                 "copy": [
                     "This update includes improvements and bug fixes."
-                ]
-            }
-        ]
-    },
-
-    {
-        "rolloutDate": "07.01.2020",
-        "releaseName": "0.9.8 Beta 1",
-        "changelog": [
-            {
-                "moduleStyle": "unorderedList",
-                "title": "What’s New",
-                "copy": [
-                    "Build recurring Training Plans on a flexible timeline.",
-                    "Refreshed Up Next card in Rest Timer.",
-                    "Refined Ongoing Workout card in This Week.",
-                    "Redesigned This Week page with new transitions &amp; typography.",
-                    "Routines—a new name for Sequences."
-                ]
-            },
-            {
-                "moduleStyle": "unorderedList",
-                "title": "Improvements & Fixes",
-                "copy": [
-                    "Action buttons are always shown.",
-                    "More accurate prediction of upcoming workouts.",
-                    "Message bars aren’t overlapped by the Navigation Bar."
                 ]
             }
         ]

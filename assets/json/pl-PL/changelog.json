@@ -1,5 +1,32 @@
 [
     {
+        "rolloutDate": "18.03.2020",
+        "releaseName": "0.9.8.2 Beta 1",
+        "changelog": [
+            {
+                "moduleStyle": "unorderedList",
+                "title": "What’s New",
+                "copy": [
+                    "Śledź postępy dzięki Komentarzom do serii.",
+                    "Przenoś pojedyncze pomiary między dawnymi a bieżącymi Seriami.",
+                    "Przewijaj <i>Dziennik</i> i spis Ćwiczeń nowym paskiem.",
+                    "Rejestruj Pomiary ciała w przeprojektowanym interfejsie.",
+                    "Wyszukuj aktualizacje aplikacje w <i>Dzienniku zmian</i>."
+                ]
+            },
+            {
+                "moduleStyle": "unorderedList",
+                "title": "Fixes & Improvements",
+                "copy": [
+                    "Szybsze ładowanie Ćwiczeń, Zestawów i Planu treningowego.",
+                    "Nieprzycinane podpisy przycisków w <i>Planie treningowym</i> i <i>O aplikacji</i>.",
+                    "Dane takie jak Dziennik zmian pobierane są z Sieci."
+                ]
+            }
+        ]
+    },
+    
+    {
         "rolloutDate": "12.01.2020",
         "releaseName": "0.9.8 Beta 3",
         "changelog": [
@@ -21,32 +48,6 @@
                 "moduleStyle": "paragraph",
                 "copy": [
                     "Ta aktualizacja wprowadza ulepszenia i poprawki."
-                ]
-            }
-        ]
-    },
-
-    {
-        "rolloutDate": "07.01.2020",
-        "releaseName": "0.9.8 Beta 1",
-        "changelog": [
-            {
-                "moduleStyle": "unorderedList",
-                "title": "Co nowego",
-                "copy": [
-                    "Twórz powtarzające się Plany treningowe na elastycznej osi czasu.",
-                    "Odswieżona karta <i>Następnie</i> w Minutniku przerwy.",
-                    "Ulepszona karta <i>Trening w toku</i> na ekranie głównym.",
-                    "Zmodernizowany ekran główny z nowymi przejściami i typografią."
-                ]
-            },
-            {
-                "moduleStyle": "unorderedList",
-                "title": "Ulepszenia i poprawki",
-                "copy": [
-                    "Przyciski akcji są zawsze widoczne.",
-                    "Dokładniejsze przewidywanie nadchodzących Treningów.",
-                    "Powiadomienia pop-up nie są wyświetlne pod Paskiem nawigacji."
                 ]
             }
         ]
