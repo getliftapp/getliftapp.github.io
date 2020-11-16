@@ -1,55 +1,91 @@
 [
-    {
-        "rolloutDate": "18.03.2020",
-        "releaseName": "0.9.8.2 Beta 1",
-        "changelog": [
-            {
-                "moduleStyle": "unorderedList",
-                "title": "What’s New",
-                "copy": [
-                    "Śledź postępy dzięki Komentarzom do serii.",
-                    "Przenoś pojedyncze pomiary między dawnymi a bieżącymi Seriami.",
-                    "Przewijaj <i>Dziennik</i> i spis Ćwiczeń nowym paskiem.",
-                    "Rejestruj Pomiary ciała w przeprojektowanym interfejsie.",
-                    "Wyszukuj aktualizacje aplikacje w <i>Dzienniku zmian</i>."
-                ]
-            },
-            {
-                "moduleStyle": "unorderedList",
-                "title": "Fixes & Improvements",
-                "copy": [
-                    "Szybsze ładowanie Ćwiczeń, Zestawów i Planu treningowego.",
-                    "Nieprzycinane podpisy przycisków w <i>Planie treningowym</i> i <i>O aplikacji</i>.",
-                    "Dane takie jak Dziennik zmian pobierane są z Sieci."
-                ]
-            }
+  {
+    "rolloutDate": "16.11.2020",
+    "releaseName": "0.9.9",
+    "changelog": [
+      {
+        "moduleStyle": "unorderedList",
+        "title": "Superserie",
+        "copy": [
+          "Zgrupuj do ośmiu ćwiczeń",
+          "Konfiguruj superserie w nowym edytorze"
         ]
-    },
-    
-    {
-        "rolloutDate": "12.01.2020",
-        "releaseName": "0.9.8 Beta 3",
-        "changelog": [
-            {
-                "moduleStyle": "unorderedList",
-                "title": "Ulepszenia i poprawki",
-                "copy": [
-                    "Przycisk <i>Rozpocznij trening</i> na ekranie <i>Trening</i> działa poprawnie."
-                ]
-            }
+      },
+      {
+        "moduleStyle": "unorderedList",
+        "title": "Kopie zapasowe",
+        "copy": [
+          "Zapisuj dane na Dysku Google",
+          "Nowy ekran wyboru miejsca docelowego",
+          "Twórz kopie zapasowe bez zezwolenia na dostęp do pamięci"
         ]
-    },
+      },
+      {
+        "moduleStyle": "unorderedList",
+        "title": "Workouts",
+        "copy": [
+          "Wieloekranowy widok treningu",
+          "Śledź czas przerwy w nowym pływającym okienku",
+          "Chronologiczna nawigacja między seriami; zapisz wynik i idź dalej"
+        ]
+      },
+      {
+        "moduleStyle": "paragraph",
+        "copy": [
+          "Ta aktualizacja wprowadza również poprawki i ulepszenia wydajności."
+        ]
+      }
+    ]
+  },
+  {
+    "rolloutDate": "18.03.2020",
+    "releaseName": "0.9.8.2 Beta 1",
+    "changelog": [
+      {
+        "moduleStyle": "unorderedList",
+        "title": "What’s New",
+        "copy": [
+          "Śledź postępy dzięki Komentarzom do serii.",
+          "Przenoś pojedyncze pomiary między dawnymi a bieżącymi Seriami.",
+          "Przewijaj <i>Dziennik</i> i spis Ćwiczeń nowym paskiem.",
+          "Rejestruj Pomiary ciała w przeprojektowanym interfejsie.",
+          "Wyszukuj aktualizacje aplikacje w <i>Dzienniku zmian</i>."
+        ]
+      },
+      {
+        "moduleStyle": "unorderedList",
+        "title": "Fixes & Improvements",
+        "copy": [
+          "Szybsze ładowanie Ćwiczeń, Zestawów i Planu treningowego.",
+          "Nieprzycinane podpisy przycisków w <i>Planie treningowym</i> i <i>O aplikacji</i>.",
+          "Dane takie jak Dziennik zmian pobierane są z Sieci."
+        ]
+      }
+    ]
+  },
 
-    {
-        "rolloutDate": "11.01.2020",
-        "releaseName": "0.9.8 Beta 2",
-        "changelog": [
-            {
-                "moduleStyle": "paragraph",
-                "copy": [
-                    "Ta aktualizacja wprowadza ulepszenia i poprawki."
-                ]
-            }
+  {
+    "rolloutDate": "12.01.2020",
+    "releaseName": "0.9.8 Beta 3",
+    "changelog": [
+      {
+        "moduleStyle": "unorderedList",
+        "title": "Ulepszenia i poprawki",
+        "copy": [
+          "Przycisk <i>Rozpocznij trening</i> na ekranie <i>Trening</i> działa poprawnie."
         ]
-    }
+      }
+    ]
+  },
+
+  {
+    "rolloutDate": "11.01.2020",
+    "releaseName": "0.9.8 Beta 2",
+    "changelog": [
+      {
+        "moduleStyle": "paragraph",
+        "copy": ["Ta aktualizacja wprowadza ulepszenia i poprawki."]
+      }
+    ]
+  }
 ]

@@ -1,55 +1,87 @@
 [
-    {
-        "rolloutDate": "18.03.2020",
-        "releaseName": "0.9.8.2 Beta 1",
-        "changelog": [
-            {
-                "moduleStyle": "unorderedList",
-                "title": "What’s New",
-                "copy": [
-                    "Track performance with Set Comments.",
-                    "Individually migrate values between Sets—past and ongoing.",
-                    "Zip through <i>Journal</i> and the Exercise index with a new scroll bar.",
-                    "Log Body Measurements in a reconstructed interface.",
-                    "Check for app updates in <i>Release Notes</i>."
-                ]
-            },
-            {
-                "moduleStyle": "unorderedList",
-                "title": "Fixes & Improvements",
-                "copy": [
-                    "Swifter loading of Exercises, Routines & the Training Plan.",
-                    "Button labels in <i>Training Plan</i> and <i>About</i> aren’t trimmed.",
-                    "Data like Release Notes is fetched from the Web."
-                ]
-            }
+  {
+    "rolloutDate": "16.11.2020",
+    "releaseName": "0.9.9",
+    "changelog": [
+      {
+        "moduleStyle": "unorderedList",
+        "title": "Supersets",
+        "copy": [
+          "Group up to eight exercises.",
+          "Customise supersets in a new editor."
         ]
-    },
-
-    {
-        "rolloutDate": "12.01.2020",
-        "releaseName": "0.9.8 Beta 3",
-        "changelog": [
-            {
-                "moduleStyle": "unorderedList",
-                "title": "Improvements & Fixes",
-                "copy": [
-                    "The Work Out button on the Routine page works as expected."
-                ]
-            }
+      },
+      {
+        "moduleStyle": "unorderedList",
+        "title": "Backups",
+        "copy": [
+          "Save data to Google Drive.",
+          "Redesigned destination picker.",
+          "Create backups without granting LiftApp storage access."
         ]
-    },
-
-    {
-        "rolloutDate": "11.01.2020",
-        "releaseName": "0.9.8 Beta 2",
-        "changelog": [
-            {
-                "moduleStyle": "paragraph",
-                "copy": [
-                    "This update includes improvements and bug fixes."
-                ]
-            }
+      },
+      {
+        "moduleStyle": "unorderedList",
+        "title": "Workouts",
+        "copy": [
+          "All-new paginated workout view.",
+          "See break time in a new floating bar.",
+          "Guided set progression; record results and move forward."
         ]
-    }
+      },
+      {
+        "moduleStyle": "paragraph",
+        "copy": [
+          "This update also inclues bug fixes and performance improvements."
+        ]
+      }
+    ]
+  },
+  {
+    "rolloutDate": "18.03.2020",
+    "releaseName": "0.9.8.2 Beta 1",
+    "changelog": [
+      {
+        "moduleStyle": "unorderedList",
+        "title": "What’s New",
+        "copy": [
+          "Track performance with Set Comments.",
+          "Individually migrate values between Sets—past and ongoing.",
+          "Zip through <i>Journal</i> and the Exercise index with a new scroll bar.",
+          "Log Body Measurements in a reconstructed interface.",
+          "Check for app updates in <i>Release Notes</i>."
+        ]
+      },
+      {
+        "moduleStyle": "unorderedList",
+        "title": "Fixes & Improvements",
+        "copy": [
+          "Swifter loading of Exercises, Routines & the Training Plan.",
+          "Button labels in <i>Training Plan</i> and <i>About</i> aren’t trimmed.",
+          "Data like Release Notes is fetched from the Web."
+        ]
+      }
+    ]
+  },
+  {
+    "rolloutDate": "12.01.2020",
+    "releaseName": "0.9.8 Beta 3",
+    "changelog": [
+      {
+        "moduleStyle": "unorderedList",
+        "title": "Improvements & Fixes",
+        "copy": ["The Work Out button on the Routine page works as expected."]
+      }
+    ]
+  },
+  {
+    "rolloutDate": "11.01.2020",
+    "releaseName": "0.9.8 Beta 2",
+    "changelog": [
+      {
+        "moduleStyle": "paragraph",
+        "copy": ["This update includes improvements and bug fixes."]
+      }
+    ]
+  }
 ]
